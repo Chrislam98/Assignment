@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="logo">logo</string>
+    <string name="cart">cart</string>
+    <string name="category">category</string>
+    <string name="search">Search</string>
+</resources>
