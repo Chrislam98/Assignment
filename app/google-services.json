@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "806478073565",
+    "firebase_url": "https://ryon-fe152.firebaseio.com",
+    "project_id": "ryon-fe152",
+    "storage_bucket": "ryon-fe152.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806478073565:android:aa4be8d2211b54a5295534",
+        "android_client_info": {
+          "package_name": "com.android.example.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806478073565-tvme45ob4nkluh981epn3ehr9i0e1ua1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.example.assignment",
+            "certificate_hash": "2ebbe6b4ad7edf19262631470cc6ecf379979dcb"
+          }
+        },
+        {
+          "client_id": "806478073565-djq4328fom5pbit5ac429rl3729r5dfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAhD1nO7HP3259uYkgYZkqaV2xzFyC_e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806478073565-djq4328fom5pbit5ac429rl3729r5dfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
