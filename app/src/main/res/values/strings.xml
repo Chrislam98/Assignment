@@ -4,8 +4,9 @@
     <string name="cart">cart</string>
     <string name="category">category</string>
     <string name="search">Search</string>
-    <string name="product_description">Product Description</string>
+    <string name="product_description">Product Description: </string>
     <string name="product_name">Product Name</string>
     <string name="product_image">Product Image</string>
     <string name="product_price">Product Price</string>
+    <string name="pname">Name: </string>
 </resources>
